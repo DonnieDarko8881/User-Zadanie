@@ -1,0 +1,6 @@
+Szymon,Medykowsi,1995-10-04,795972529
+Julia,Roberts,1990-05-05,555321213
+Rob,Williams,1950-06-05
+Maryl,Streep,1970-06-08,2131231231
+Jacky,Chan,1965-06-05
+Jackie,Jackson,2000-03-08,583219989
